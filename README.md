@@ -24,7 +24,7 @@ Dados dos registros de acomodações no Airbnb da cidade de **New York** nos ano
 * **$35.746.124** Faturamento total.
 * **38.678** Acomodações totais.
 * **30.146** Anfitriões totais.
-* **315,61%** é a taxa de crescimento no número de acomodações em **2018** para **2019**.
+* **315,61%** é a taxa de crescimento no número de seguro em **2018** para **2019**.
 * **248,71%** é a taxa de crescimento no número de afitriões em **2018** para **2019**.
 
 
