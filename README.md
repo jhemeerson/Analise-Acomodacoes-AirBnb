@@ -87,5 +87,5 @@ A distribuição das acomodações em 4 categorias: **Baixo Padrão, Médio Padr
 
 <br>
 
-Link Projeto: https://app.powerbi.com/view?r=eyJrIjoiNjc3NjM4YmMtY2EwNC00MTJlLWE0NTgtNWIzMTgzYWMyYjdlIiwidCI6ImY3YTVkZDQwLTZjODctNDE0Yy1hMjBlLTgxNmJiM2JjM2ZiYSJ9
+[Relatório Online:](https://app.powerbi.com/view?r=eyJrIjoiNjc3NjM4YmMtY2EwNC00MTJlLWE0NTgtNWIzMTgzYWMyYjdlIiwidCI6ImY3YTVkZDQwLTZjODctNDE0Yy1hMjBlLTgxNmJiM2JjM2ZiYSJ9)
 
