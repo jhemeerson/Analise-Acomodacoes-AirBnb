@@ -1,5 +1,11 @@
 # Analise-Acomodacoes-Airbnb
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/e6f9c108-0314-4221-957c-df5afcb23abb" />
+</div>
+
+<br>
+
 **Airbnb** é um serviço online comunitário para as pessoas anunciarem, descobrirem e reservarem acomodações e meios de hospedagem.
 Permite aos indivíduos alugar o todo ou parte de sua própria casa, como uma forma de acomodação extra.
 
@@ -10,15 +16,16 @@ Dados dos registros de acomodações no Airbnb da cidade de **New York** nos ano
 ## Big Number
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/03369a8b-17fc-43ad-b59f-fef7ecb592ba" />
+<img src="https://github.com/user-attachments/assets/7c8ad06c-a379-4086-ac04-8d4897c3b843" />
 </div>
 
 #### Os Big Numbers são números gerais para dar uma visão ampla do negócio.
 
-* **38.678** Acomodações.
-* **30.146** Anfitriões.
-* **$102** é o valor mediano dos alugueis.
-* **2** é a quantidade mediana de dias que são alugados as acomodações.
+* **$35.746.124** Faturamento total.
+* **38.678** Acomodações totais.
+* **30.146** Anfitriões totais.
+* **315,61%** é a taxa de crescimento no número de acomodações em **2018** para **2019**.
+* **248,71%** é a taxa de crescimento no número de afitriões em **2018** para **2019**.
 
 
 ## Preços
