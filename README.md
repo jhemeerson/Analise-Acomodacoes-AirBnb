@@ -13,7 +13,7 @@ Os dados foram baixados da base pública no  Site [Kaggle.](https://www.kaggle.c
 
 Dados dos registros de acomodações no Airbnb da cidade de **New York** nos anos de **2011 a 2019.**
 
-## Big Number
+## Análise Geral
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/7c8ad06c-a379-4086-ac04-8d4897c3b843" />
@@ -24,34 +24,34 @@ Dados dos registros de acomodações no Airbnb da cidade de **New York** nos ano
 * **$35.746.124** Faturamento total.
 * **38.678** Acomodações totais.
 * **30.146** Anfitriões totais.
-* **315,61%** é a taxa de crescimento no número de Acomodações em **2018** para **2019**.
-* **248,71%** é a taxa de crescimento no número de Afitriões em **2018** para **2019**.
+* **315%** é a taxa de crescimento no número de Acomodações em **2018** para **2019**.
+* **248%** é a taxa de crescimento no número de Afitriões em **2018** para **2019**.
 
 
-## Preços
+### Faturamento:
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/3a7a3bb7-4ef5-450e-a1cf-d85397bea7d6" />
 </div>
 
-#### O grafico de linhas mostra a distribuição do faturamento ao longo do período analisado. (2011 a 2019)
+**O grafico de linhas mostra a distribuição do faturamento ao longo do período analisado. (2011 a 2019)**
 
 * Onde de **2018** para **2019** o faturamento mais que dobrou.
 * Aumento percentual de **115,8%**
 
-## Acomodações
+### Acomodações:
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/e5869e12-e028-4646-a530-d875f0624909" />
 </div>
 
-#### O gráfico de barras horizotais mostra a distribuição das acomodações em New York por distritos.
+**O gráfico de barras horizotais mostra a distribuição das acomodações em New York por distritos.**
 
 * A grande maioria das acomodações, **cerca de 85%** estão concentrados em apenas 2 distritos, **Manhattan e Brooklyn.**
 * **Manhattan** (16.568) e **Brooklyn** (16.397) somadas detem **32.965 acomodações (85%).**
 * **5.713** acomodações estão distribuidas nos outros 3 distritos restantes, **Queens (4.538), Bronx (864) e Staten Island (311).**
 
-## Classificação
+### Classificação:
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/ea8f26db-0418-499d-85b2-0aae60337154" />
@@ -75,15 +75,9 @@ A distribuição das acomodações em 4 categorias: **Baixo Padrão, Médio Padr
 
 <br>
 
-* **84%** das acomodações são da categoria de **Baixo Padrão** com a maior concentração no distrito do **Brooklyn.**
-* **14%** das acomodações são da categoria de **Médio Padrão** com a maior concentração no distrito de **Manhattan.**
-
-
-## Dash
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/015f62b7-9af1-4704-861f-785b90b44feb" />
-</div>
+* **84%** das acomodações são da categoria de **Baixo Padrão**  com a maior concentração (**32.737**) no distrito do **Brooklyn.**
+* **14%** das acomodações são da categoria de **Médio Padrão** com a maior concentração (**5.673**) no distrito de **Manhattan.**
+* Categoria **Alto Padrão** com **menos de 1%** da concentração (**267**) acomodações.
 
 <br>
 
