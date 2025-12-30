@@ -9,7 +9,7 @@
 **Airbnb** é um serviço online comunitário para as pessoas anunciarem, descobrirem e reservarem acomodações e meios de hospedagem.
 Permite aos indivíduos alugar o todo ou parte de sua própria casa, como uma forma de acomodação extra.
 
-Os dados foram baixados da base de pública no **Kaggle.**
+Os dados foram baixados da base pública no  Site [Kaggle.](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 
 Dados dos registros de acomodações no Airbnb da cidade de **New York** nos anos de **2011 a 2019.**
 
@@ -24,21 +24,20 @@ Dados dos registros de acomodações no Airbnb da cidade de **New York** nos ano
 * **$35.746.124** Faturamento total.
 * **38.678** Acomodações totais.
 * **30.146** Anfitriões totais.
-* **315,61%** é a taxa de crescimento no número de seguro em **2018** para **2019**.
-* **248,71%** é a taxa de crescimento no número de afitriões em **2018** para **2019**.
+* **315,61%** é a taxa de crescimento no número de Acomodações em **2018** para **2019**.
+* **248,71%** é a taxa de crescimento no número de Afitriões em **2018** para **2019**.
 
 
 ## Preços
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/cb4cd005-d5b5-4991-b589-20bd6d2dca89" />
+<img src="https://github.com/user-attachments/assets/3a7a3bb7-4ef5-450e-a1cf-d85397bea7d6" />
 </div>
 
-#### O grafico de linhas mostra a distribuição dos valores medianos dos alugueis ao longo do período analisado. (2011 a 2019)
+#### O grafico de linhas mostra a distribuição do faturamento ao longo do período analisado. (2011 a 2019)
 
-* Onde **2011, 2013 e 2014** tem os melhores números, **$140, $150 e $140** respectivamente.
-
-* Os anos de **2015 a 2019**  houve uma baixa, se mantendo estavel na casa dos **$100 dólares.**
+* Onde de **2018** para **2019** o faturamento mais que dobrou.
+* Aumento percentual de **115,8%**
 
 ## Acomodações
 
