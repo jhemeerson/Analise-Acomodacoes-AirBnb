@@ -38,11 +38,24 @@ Dados dos registros de acomodações no Airbnb da cidade de **New York** nos ano
 
 <br>
 
-**O grafico de linhas mostra a distribuição do faturamento ao longo do período analisado. (2011 a 2019)**
+**O gráfico de linha mostra a distribuição do faturamento ao longo do período analisado. (2011 a 2019)**
 
 * Onde de **2018** ($8.116.352) para **2019** ($17.510.213) o faturamento mais que dobrou.
 * Aumento percentual de **115,8%**
 * **$35.746.124** Faturamento total.
+
+<br>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/8a34f583-cc20-4978-a1fe-bd08ac26c282" />
+</div>
+
+<br>
+
+**O gráfico de barras verticais mostra a distribuição do faturamento por distritos.**
+
+* Manhattan representa **61%** do faturamento total
+* Brooklyn representa **30%** do faturamento total
 
 <br>
 
@@ -53,6 +66,8 @@ Dados dos registros de acomodações no Airbnb da cidade de **New York** nos ano
 </div>
 
 <br>
+
+**O gráfico de linha mostra a distribuição das acomodações ao longo do período analisado. (2011 a 2019)**
 
 * Quantidade de acomodações no ano de 2018: **6.033**.
 * Quantidade de acomodações no ano de 2019: **25.074**.
@@ -67,7 +82,7 @@ Dados dos registros de acomodações no Airbnb da cidade de **New York** nos ano
 
 <br>
 
-**O gráfico de barras horizotais mostra a distribuição das acomodações em New York por distritos.**
+**O gráfico de barras horizotais mostra a distribuição das acomodações por distritos.**
 
 * A grande maioria das acomodações, **cerca de 85%** estão concentrados em apenas 2 distritos, **Manhattan e Brooklyn.**
 * **Manhattan** (16.568) e **Brooklyn** (16.397) somadas detem **32.965 acomodações (85%).**
@@ -83,7 +98,7 @@ Dados dos registros de acomodações no Airbnb da cidade de **New York** nos ano
 
 <br>
 
-#### O gráfico de rosca mostra a porcentagem de cada categoria
+#### O gráfico de rosca mostra a porcentagem da classificação por cada categoria.
 
 A distribuição das acomodações em 4 categorias: **Baixo Padrão, Médio Padrão, Alto Padrão e Altissimo Padrão.**
 
@@ -115,6 +130,8 @@ A distribuição das acomodações em 4 categorias: **Baixo Padrão, Médio Padr
 
 <br>
 
+**O gráfico de linha mostra a distribuição dos anfitriões ao longo do período analisado. (2011 a 2019)**
+
 * Quantidade de anfitriões no ano de 2018: **5.408**.
 * Quantidade de anfitriões no ano de 2019: **18.858**.
 * Crescimento percentual de **248,71%** (18-19).
@@ -127,6 +144,8 @@ A distribuição das acomodações em 4 categorias: **Baixo Padrão, Médio Padr
 </div>
 
 <br>
+
+**O gráfico de linha mostra a distribuição dos anfitriões por classificação de cada categoria.**
 
 * **87,46%**  dos anfitriões estão concentrados na categoria **Baixo Padrão**
 
