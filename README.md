@@ -128,6 +128,8 @@ A distribuição das acomodações em 4 categorias: **Baixo Padrão, Médio Padr
 
 * **87,46%**  dos anfitriões estão concentrados na categoria **Baixo Padrão**
 
+<br>
+
 **Regra das categorias:**
 
 -- *A regra do Preço Mínimo Final é: Preço por noite multiplicado pela quantidade mínima de noites.*
@@ -141,6 +143,8 @@ A distribuição das acomodações em 4 categorias: **Baixo Padrão, Médio Padr
 -- *Se o Preço Mínimo Final é maior que 100.000 é "Altíssimo Padrão".*
 
 <br>
+
+## Relatório Completo:
 
 
 [Relatório Online:](https://app.powerbi.com/view?r=eyJrIjoiNjc3NjM4YmMtY2EwNC00MTJlLWE0NTgtNWIzMTgzYWMyYjdlIiwidCI6ImY3YTVkZDQwLTZjODctNDE0Yy1hMjBlLTgxNmJiM2JjM2ZiYSJ9)
