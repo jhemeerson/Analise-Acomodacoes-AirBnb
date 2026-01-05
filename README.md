@@ -145,7 +145,7 @@ A distribuição das acomodações em 4 categorias: **Baixo Padrão, Médio Padr
 
 <br>
 
-**O gráfico de linha mostra a distribuição dos anfitriões por classificação de cada categoria.**
+**O gráfico de barras verticais a distribuição dos anfitriões por classificação de cada categoria.**
 
 * **87,46%**  dos anfitriões estão concentrados na categoria **Baixo Padrão**
 
