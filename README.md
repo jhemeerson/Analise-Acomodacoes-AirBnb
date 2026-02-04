@@ -13,6 +13,8 @@ Os dados foram baixados da base pública no  Site [Kaggle.](https://www.kaggle.c
 
 Dados dos registros de acomodações no Airbnb da cidade de **New York** nos anos de **2011 a 2019.**
 
+[Relatório Online:](https://app.powerbi.com/view?r=eyJrIjoiNjc3NjM4YmMtY2EwNC00MTJlLWE0NTgtNWIzMTgzYWMyYjdlIiwidCI6ImY3YTVkZDQwLTZjODctNDE0Yy1hMjBlLTgxNmJiM2JjM2ZiYSJ9)
+
 <br>
 
 ## Análise Geral
